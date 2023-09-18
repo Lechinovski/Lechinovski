@@ -34,10 +34,10 @@
   </div>
 
   ##
-  <B>Meus Projetos</B> 
-  <div align="center">
+  <B>Meus Principais Projetos</B> 
+  <div >
     <a href="https://github.com/Lechinovski/SENAC-PWMB-1142741065-JoaoVitor">
-    <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=Lechinovski&repo=SENAC-PWMB-1142741065-JoaoVitor"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Lechinovski&repo=SENAC-PWMB-1142741065-JoaoVitor"/>
     <a href="https://github.com/Lechinovski/HackaTruck">
-    <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=Lechinovski&repo=HackaTruck"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Lechinovski&repo=HackaTruck"/>
   </div>
