@@ -32,3 +32,12 @@
   <a href = "mailto:joaolechinovski@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3olechinovski/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
+
+  ##
+  <B>Meus Projetos</B> 
+  <div align="center">
+    <a href="https://github.com/Lechinovski/SENAC-PWMB-1142741065-JoaoVitor">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Lechinovski&repo=SENAC-PWMB-1142741065-JoaoVitor"/>
+    <a href="https://github.com/Lechinovski/HackaTruck">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=Lechinovski&repo=HackaTruck"/>
+  </div>
