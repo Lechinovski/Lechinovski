@@ -41,6 +41,6 @@
     <a href="https://github.com/Lechinovski/HackaTruck">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lechinovski&repo=HackaTruck&layout=compact"/>
     <a href="https://github.com/Lechinovski/CRUD-DB">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lechinovski&repo=CRUD-DB"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lechinovski&repo=CRUD-DB&layout=compact"/>
   </div>
 
