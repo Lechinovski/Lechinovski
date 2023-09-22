@@ -2,7 +2,7 @@
 <div align="center">
   <a href="https://github.com/Lechinovski">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lechinovski&show_icons=true&theme=transparent"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lechinovski&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lechinovski&layout=compact&theme=transparent"/>
   
 </div>
 
@@ -37,12 +37,12 @@
   <B>Meus Principais Projetos</B> 
   <div align="center">
     <a href="https://github.com/Lechinovski/SENAC-PWMB-1142741065-JoaoVitor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lechinovski&repo=SENAC-PWMB-1142741065-JoaoVitor&layout=compact"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lechinovski&repo=SENAC-PWMB-1142741065-JoaoVitor&layout=compact&theme=transparent"/>
     <a href="https://github.com/Lechinovski/HackaTruck">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lechinovski&repo=HackaTruck&layout=compact"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lechinovski&repo=HackaTruck&layout=compact&theme=transparent"/>
     <a href="https://github.com/Lechinovski/CRUD-DB">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lechinovski&repo=CRUD-DB&layout=compact"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lechinovski&repo=CRUD-DB&layout=compact&theme=transparent"/>
     <a href="https://github.com/Lechinovski/BD_Senac">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lechinovski&repo=DB_Senac"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lechinovski&repo=DB_Senac&theme=transparent"/>
   </div>
 
