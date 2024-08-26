@@ -1,4 +1,16 @@
-## Olá eu sou o João Vitor Lechinovski Teixeira, .....
+Olá!👋🏻 Meu nome é **João Vitor Lechinovski Teixeira**. Sou do Senac, Análise e Desenvolvimento de Sistemas . 🏫
+
+Tenho um grande interesse em desenvolvimento mobile! Atualmente estudando ⚛️react e .net maui.
+
+**Skills:**  
+
+Desenvolvimento Mobile | Desenvolvimento Web | Desenvolvimento Java  
+
+**Tools:**
+
+<img align="center" src="https://skillicons.dev/icons?i=java,js,html,css,dotnet,figma,git,github,idea,mysql,vscode&theme=dark">
+
+##
 <div align="center">
 
 </div>
@@ -8,24 +20,13 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lechinovski&show_icons=true&theme=transparent"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lechinovski&layout=compact&theme=transparent"/>
   </div>
-
-## 
-<B>Estudando</B> 
-<div style="display: inline_block"><br>
-    <img align="center" src="https://skillicons.dev/icons?i=java,javascript,html,css,dotnet&theme=light">
-</div>
   
   ## 
-  <B>Quero estudar essas Liguangens</B> 
-<div style="display: inline_block"><br>
-    <img align="center" src="https://skillicons.dev/icons?i=cs,typescript,react,python&theme=light">
-</div>
-  
-  ## 
+  **Contacts:**
  
   <div> 
-    <a href="https://www.instagram.com/joao_lechinovski/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-    <a href = "mailto:joaolechinovski@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/jo%C3%A3olechinovski/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="https://www.instagram.com/joao_lechinovski/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" target="_blank"></a>
+    <a href="" target="_blank"><img src="https://skillicons.dev/icons?i=discord&theme=dark" target="_blank"></a> 
+    <a href = "mailto:joaolechinovski@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/jo%C3%A3olechinovski/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" target="_blank"></a> 
   </div>
